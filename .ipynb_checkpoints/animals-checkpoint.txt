@@ -1,0 +1,4 @@
+Dumbo is a elephant
+Kaa is a python
+Lucky is a dog
+Tulu is a giraffe
